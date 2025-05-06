@@ -52,7 +52,7 @@ def dictionairy():
 
 
 ## Result
+Thus, the program has been successfully executed. 
 
-![image](https://github.com/user-attachments/assets/bd6ff1b5-35ad-4dfe-b1ae-319aecb403b1)
 
 
